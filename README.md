@@ -8,18 +8,18 @@
 
 **[JJ Provenance](#)** — An open-source project exploring line-level operation log blame for [Jujutsu](https://github.com/jj-vcs/jj).
 
+### 🖥️ Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+
 ### 💡 Interests
 
 * Version Control Systems
 * Distributed Systems
 * Machine Learning Infrastructure
 * Scientific Computing
-
-### 🖥️ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 
 ### 🐍 Machine Learning Toolkit
 
